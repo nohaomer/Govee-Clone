@@ -1,0 +1,94 @@
+Device1,Seive,1018,on,17,25,39,56,8
+Device2,V shape,24CC,on,17,25,39,56,8
+Device3,Small coating,8011,on,17,25,39,56,8
+Device4,Holding room,50B5,on,17,25,39,56,8
+Device5,Coating gansons(room2),E0DD,on,17,25,39,56,8
+Device6,Sachet filling2,0C74,on,17,25,39,56,8
+Device7,Pilot (R&Dgranulation),B48B,on,17,25,39,56,8
+Device8,R &D BLINDING,8817,on,17,25,39,56,8
+Device9,R&D compression,C4BE,on,17,25,39,56,8
+Device10,Holding room(028p1)(MIDDLE),A46E,on,17,25,39,56,8
+Device11,Capsule filling1(OLD),A8C3,on,17,25,39,56,8
+Device12,Compresstion room1,A900,on,17,25,39,56,8
+Device13,Granulation,08EE,off,17,25,39,56,8
+Device14,Bin blender,3CD5,on,17,25,39,56,8
+Device15,Compresstion room2,B08C,on,17,25,39,56,8
+Device16,Granulation,CCA4,on,17,25,39,56,8
+Device20,Depaking room for solid,F8F4,on,17,25,39,56,8
+Device21,Bottle clean for dry syrup,8C82,on,17,25,39,56,8
+Device22,Dry syrup filling,3C7F,on,17,25,39,56,8
+Device23,Sachet filling 1 (old),04B5,on,17,25,39,56,8
+Device24,Coating solution prep.,1094,on,17,25,39,56,8
+Device25,Capsule filling 2,2C76,on,17,25,39,56,8
+Device26,Coating room 1(OLD),B42F,on,17,25,39,56,8
+Device27,Corridor against sacchet filling,04F9,on,17,25,39,56,8
+Device28,Corridor against V shape,D0E4,on,17,25,39,56,8
+Device29,Stage out (solid area),45BD,on,17,25,39,56,8
+Device30,Corridor against IPC ,6CE4,on,17,25,39,56,8
+Device31,MAL (solid area),9D08,on,17,25,39,56,8
+Device32,Cleaning room for liquid bottle 1(old),94C5,off,17,25,29,61,8
+Device33,Filling room for liquid 1(old),A48E,on,17,25,29,61,8
+Device34,Cleaning room for liquid bottle 2(new),DC02,on,17,25,29,61,8
+Device35,Filling room for liquid 2 (new),B865,on,17,25,29,61,8
+Device36,MAL 1 Inner part,58B2,on,17,25,29,61,8
+Device37,MAL 1 OUTER PART,1CD3,off,17,25,29,61,8
+Device38,MAL 2 INNER PART,1CE7,on,17,25,29,61,8
+Device39,MAL 2 OUTER PART,2C83,off,17,25,29,61,8
+Device40,CORRIDOR LIQUID FRIST FLOOR,A07D,on,17,25,29,61,8
+Device41,SS2 PACKAGING SYRUP,3CD1,on,17,25,39,56,8
+Device42,SYRUP PACKAGING EMA SAFE,B02E,on,17,25,39,56,8
+Device43,Semisolid filling 3,94CE,on,17,25,29,61,8
+Device44,SK(Liq. Prep. 2),30AF,on,17,25,29,61,8
+Device45,Fryma old (cream prep),406A,on,17,25,29,61,8
+Device46,Fryma new (semisolid prep.),3C17,on,17,25,29,61,8
+Device47,liq. Prep.1 (old),94B6,on,17,25,29,61,8
+Device48,Axomatic new (semisolid filling2),3C5D,on,17,25,29,61,8
+Device49,Axomatic old (semisolid filling1),F10B,on,17,25,29,61,8
+Device50,Ext. prep. Room,D41F,on,17,25,29,61,8
+Device51,Ext. cleaning line,A4A0,on,17,25,29,61,8
+Device52,Ext. filling line,D819,on,17,25,29,61,8
+Device53,Depaking room for liquid,1063,on,17,25,29,61,8
+Device54,Corridor in liquid area(2nd floor),9C51,on,17,25,29,61,8
+Device55,MAL Semisolid innerpart,673A,on,17,25,29,61,8
+Device56,MAL semisolid outerpart  ,2F1B,on,17,25,29,61,8
+Device57,Partina (blistering room 1),3C99,on,17,25,39,56,8
+Device58,Tablet counter room ,BCA1,on,17,25,39,56,8
+Device59,Pam new (blistering 3),AC51,on,17,25,39,56,8
+Device60,Pam old  (blistering 2),BC9C,on,17,25,39,56,8
+Device61,MAL blistering,B492,on,17,25,39,56,8
+Device62,Blistering corridor,B89D,on,17,25,39,56,8
+Device63,SS (PACKAGING MACHINE),30F1,on,17,25,29,61,8
+Device64,Packaging BLISTER,58D8,on,17,25,39,56,8
+Device65,Pamphlet area (metronic machine),FC56,on,17,25,39,56,8
+Device66,Holding room packaging area,4916,on,17,25,39,56,8
+Device67,Weight room 1,D10F,off,17,25,39,56,8
+Device68,Weight room 2 ,606A,on,17,25,39,56,8
+Device69,Weight corridor ,1C65,on,17,25,39,56,8
+Device70,Sampling,F025,on,17,25,39,56,8
+Device71,QC fridge,F449,on,2,8,_,_,8
+Device72,QC Freezer,101E,on,-25,-10,_,_,8
+Device73,Packaging (pd.sticking machine),C056,on,17,25,39,56,8
+Device74,CIP (2nd floor),ECDD,on,17,25,39,56,8
+Device75,COLD STORE,D8FI,on,2,8,_,_,8
+Device76,Small stability,5.30E+01,on,28,32,60,70,8
+Device77,large stability ,F51C,on,38,42,70,80,8
+Device78,R&D LAB,704B,on,17,25,39,56,8
+Device79,R&D Fridge,O433,on,2,8,_,_,8
+Device80,QC,3.00E+24,on,_,25,_,60,8
+Device81,Cleaning room for liquid bottle 1(old),FCBB,on,17,25,29,61,8
+Device82,MAL 1 OUTER PART,5911,on,17,25,29,61,8
+Device83,MAL 2 OUTER PART,7CEO,on,17,25,29,61,8
+Device84,Clean Room Solid Area,58F4,on,17,25,39,56,8
+Device85,R&D Freezer,7CD3,on,-25,-10,39,56,8
+Device86,R&D Lab2,A479,on,17,25,_,_,8
+Device87,Incubator2 [Qc6mi002],509A,on,20,25,_,_,8
+Device88,Incubator1 [Qc6mi001],2873,on,30,35,_,_,8
+Device89,Incubator3,8D08,on,30,35,_,_,8
+Device90,Incubator4,CD1A,on,50,60,_,_,8
+Device91,Micro fridge,3462,on,2,8,_,_,8
+Device93,weighting room 2,4877,on,17,25,39,56,8
+Device94,Retained Room 2,Sy51c28100137,on,_,25,_,56,8
+Device95,Clean Liquid level 2,1C4D,on,17,25,29,61,8
+Device96,Retained Room 1,677E,on,_,25,_,60,8
+Device97,Store Cold Spot,673A,on,17,25,39,56,8
+Device98,Store Hot Spot,4916,on,17,25,39,56,8
